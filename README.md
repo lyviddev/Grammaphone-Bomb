@@ -1,2 +1,2 @@
-# Grammaphone-Bomb
-Introducing... A GRAMMAPHONE BOMB!!!
+# Gramophone-Bomb
+Introducing... A GRAMOPHONE BOMB!!!
